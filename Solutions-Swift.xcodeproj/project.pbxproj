@@ -16,6 +16,7 @@
 		B2664FEC2493751A002DC4F4 /* Binary-Tree-Tilt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2664FEB2493751A002DC4F4 /* Binary-Tree-Tilt.swift */; };
 		B2664FEE249375E0002DC4F4 /* Valid-Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2664FED249375E0002DC4F4 /* Valid-Parentheses.swift */; };
 		B2AE25902494B7510012813D /* 2.Add-Two-Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AE258F2494B7510012813D /* 2.Add-Two-Numbers.swift */; };
+		B2AE25982494BEE00012813D /* 189.Rotate-Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AE25972494BEE00012813D /* 189.Rotate-Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		B2664FEB2493751A002DC4F4 /* Binary-Tree-Tilt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary-Tree-Tilt.swift"; sourceTree = "<group>"; };
 		B2664FED249375E0002DC4F4 /* Valid-Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Valid-Parentheses.swift"; sourceTree = "<group>"; };
 		B2AE258F2494B7510012813D /* 2.Add-Two-Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2.Add-Two-Numbers.swift"; sourceTree = "<group>"; };
+		B2AE25972494BEE00012813D /* 189.Rotate-Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189.Rotate-Array.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				B2664FED249375E0002DC4F4 /* Valid-Parentheses.swift */,
 				B2664FEB2493751A002DC4F4 /* Binary-Tree-Tilt.swift */,
 				B2664FE62493740E002DC4F4 /* Two-Sum.swift */,
+				B2AE25972494BEE00012813D /* 189.Rotate-Array.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				B2664FE72493740E002DC4F4 /* Two-Sum.swift in Sources */,
 				B2664FD7249373C1002DC4F4 /* ViewController.swift in Sources */,
 				B2664FEE249375E0002DC4F4 /* Valid-Parentheses.swift in Sources */,
+				B2AE25982494BEE00012813D /* 189.Rotate-Array.swift in Sources */,
 				B2AE25902494B7510012813D /* 2.Add-Two-Numbers.swift in Sources */,
 				B2664FD3249373C1002DC4F4 /* AppDelegate.swift in Sources */,
 				B2664FD5249373C1002DC4F4 /* SceneDelegate.swift in Sources */,
