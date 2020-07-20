@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B2202BFF24C56E5A00CA1912 /* 3. Longest Substring Without Repeating Characters.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2202BFE24C56E5A00CA1912 /* 3. Longest Substring Without Repeating Characters.swift */; };
+		B2202C0124C56FDA00CA1912 /* 7. Reverse Integer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2202C0024C56FDA00CA1912 /* 7. Reverse Integer.swift */; };
 		B25E27C124C3B55500515DF2 /* Median of Two Sorted Arrays.swift in Sources */ = {isa = PBXBuildFile; fileRef = B25E27C024C3B55500515DF2 /* Median of Two Sorted Arrays.swift */; };
 		B2664FD3249373C1002DC4F4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2664FD2249373C1002DC4F4 /* AppDelegate.swift */; };
 		B2664FD5249373C1002DC4F4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2664FD4249373C1002DC4F4 /* SceneDelegate.swift */; };
@@ -16,11 +18,13 @@
 		B2664FE72493740E002DC4F4 /* Two-Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2664FE62493740E002DC4F4 /* Two-Sum.swift */; };
 		B2664FEC2493751A002DC4F4 /* Binary-Tree-Tilt.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2664FEB2493751A002DC4F4 /* Binary-Tree-Tilt.swift */; };
 		B2664FEE249375E0002DC4F4 /* Valid-Parentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2664FED249375E0002DC4F4 /* Valid-Parentheses.swift */; };
-		B2AE25902494B7510012813D /* 2.Add-Two-Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AE258F2494B7510012813D /* 2.Add-Two-Numbers.swift */; };
+		B2AE25902494B7510012813D /* 2. Add-Two-Numbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AE258F2494B7510012813D /* 2. Add-Two-Numbers.swift */; };
 		B2AE25982494BEE00012813D /* 189.Rotate-Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2AE25972494BEE00012813D /* 189.Rotate-Array.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B2202BFE24C56E5A00CA1912 /* 3. Longest Substring Without Repeating Characters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "3. Longest Substring Without Repeating Characters.swift"; sourceTree = "<group>"; };
+		B2202C0024C56FDA00CA1912 /* 7. Reverse Integer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "7. Reverse Integer.swift"; sourceTree = "<group>"; };
 		B25E27C024C3B55500515DF2 /* Median of Two Sorted Arrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Median of Two Sorted Arrays.swift"; sourceTree = "<group>"; };
 		B2664FCF249373C1002DC4F4 /* Solutions-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Solutions-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2664FD2249373C1002DC4F4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -32,7 +36,7 @@
 		B2664FE62493740E002DC4F4 /* Two-Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Two-Sum.swift"; sourceTree = "<group>"; };
 		B2664FEB2493751A002DC4F4 /* Binary-Tree-Tilt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binary-Tree-Tilt.swift"; sourceTree = "<group>"; };
 		B2664FED249375E0002DC4F4 /* Valid-Parentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Valid-Parentheses.swift"; sourceTree = "<group>"; };
-		B2AE258F2494B7510012813D /* 2.Add-Two-Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2.Add-Two-Numbers.swift"; sourceTree = "<group>"; };
+		B2AE258F2494B7510012813D /* 2. Add-Two-Numbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2. Add-Two-Numbers.swift"; sourceTree = "<group>"; };
 		B2AE25972494BEE00012813D /* 189.Rotate-Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "189.Rotate-Array.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -76,6 +80,7 @@
 			children = (
 				B2664FE82493741F002DC4F4 /* Easy */,
 				B2664FE9249374CE002DC4F4 /* Medium */,
+				B25E27C224C3B56200515DF2 /* Hard */,
 				B2664FD2249373C1002DC4F4 /* AppDelegate.swift */,
 				B2664FD4249373C1002DC4F4 /* SceneDelegate.swift */,
 				B2664FD6249373C1002DC4F4 /* ViewController.swift */,
@@ -93,6 +98,7 @@
 				B2664FEB2493751A002DC4F4 /* Binary-Tree-Tilt.swift */,
 				B2664FE62493740E002DC4F4 /* Two-Sum.swift */,
 				B2AE25972494BEE00012813D /* 189.Rotate-Array.swift */,
+				B2202C0024C56FDA00CA1912 /* 7. Reverse Integer.swift */,
 			);
 			path = Easy;
 			sourceTree = "<group>";
@@ -100,8 +106,8 @@
 		B2664FE9249374CE002DC4F4 /* Medium */ = {
 			isa = PBXGroup;
 			children = (
-				B2AE258F2494B7510012813D /* 2.Add-Two-Numbers.swift */,
-				B25E27C224C3B56200515DF2 /* Hard */,
+				B2AE258F2494B7510012813D /* 2. Add-Two-Numbers.swift */,
+				B2202BFE24C56E5A00CA1912 /* 3. Longest Substring Without Repeating Characters.swift */,
 			);
 			path = Medium;
 			sourceTree = "<group>";
@@ -181,10 +187,12 @@
 				B2664FD7249373C1002DC4F4 /* ViewController.swift in Sources */,
 				B2664FEE249375E0002DC4F4 /* Valid-Parentheses.swift in Sources */,
 				B2AE25982494BEE00012813D /* 189.Rotate-Array.swift in Sources */,
-				B2AE25902494B7510012813D /* 2.Add-Two-Numbers.swift in Sources */,
+				B2202C0124C56FDA00CA1912 /* 7. Reverse Integer.swift in Sources */,
+				B2AE25902494B7510012813D /* 2. Add-Two-Numbers.swift in Sources */,
 				B25E27C124C3B55500515DF2 /* Median of Two Sorted Arrays.swift in Sources */,
 				B2664FD3249373C1002DC4F4 /* AppDelegate.swift in Sources */,
 				B2664FD5249373C1002DC4F4 /* SceneDelegate.swift in Sources */,
+				B2202BFF24C56E5A00CA1912 /* 3. Longest Substring Without Repeating Characters.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
